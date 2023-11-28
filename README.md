@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhavesh-s2002
+- 👋 Hi, I’m @Bhavesh Sharma
 - 👀 I’m interested in ...Competitive Programming
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ...
