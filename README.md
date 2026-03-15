@@ -81,10 +81,9 @@ I love building scalable systems and solving algorithmic problems.
 
 # 🏆 Competitive Programming
 
-🏅 **Codeforces Expert**  
+🏅 **Codeforces Expert (MAX 1860)**  
 🏅 **LeetCode Guardian (Top 1%)**  
-🏅 **CodeChef 5⭐ (Global Rank 949)**  
-🏅 **2500+ Problems Solved Across Platforms**
+🏅 **CodeChef 5⭐ (MAX 2127)**  
 
 ---
 
@@ -110,7 +109,7 @@ I love building scalable systems and solving algorithmic problems.
 
 # ⚡ Fun Facts
 
-- Solved **2500+ problems** across coding platforms  
+- Solved **3000+ problems** across coding platforms  
 - Love building **high-performance backend systems**  
 - Interested in **Distributed Systems & System Design**
 
