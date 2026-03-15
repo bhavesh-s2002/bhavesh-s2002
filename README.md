@@ -5,6 +5,13 @@
 <p align="center">
 Backend Engineer & Competitive Programmer from IIT (BHU).  
 I love building scalable systems and solving algorithmic problems.
+</p> 
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bhavesh-s2002&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
 </p>
 
 <p align="center">
@@ -97,16 +104,6 @@ I love building scalable systems and solving algorithmic problems.
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/bhavesh-s2002/bhavesh-s2002/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bhavesh-s2002&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
 
