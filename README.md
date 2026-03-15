@@ -6,7 +6,6 @@
 Backend Engineer & Competitive Programmer from IIT (BHU).  
 I love building scalable systems and solving algorithmic problems.
 </p> 
-# 👀 Profile Visitors
 
 <p align="center">
 
